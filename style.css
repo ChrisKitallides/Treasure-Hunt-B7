@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+    text-align: center;
+
+
+}
+
+div.head{
+    background-color: #e67e00;
+    text-align: center;
+    display: flex;
+    font-size: 32px;
+    justify-content: center;
+    box-shadow: 2px 2px 4px #995400;
+}
+
+div.center{
+    margin-top: 40px;
+    border: 10px solid #e67e00;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 20px;
+    background-color: #e67e00;
+    box-shadow: 20px 20px 40px #995400;
+}
+
+.p_center{
+    font-size: 24px;
+}
+
+.h1_center{
+    font-size: 40px;
+
+}
+
+.twitter_logo{
+    width: 30%;
+    height: 30%;
+}
+
+div.down{
+    display: flex;
+    background-color: #e67e00;
+    align-items: flex-start;
+    margin-top: 30px;
+    padding: 10px;
+    justify-content: space-between;
+
+
+
+}
+
+.github_link{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 27px;
+    color: inherit;
+}
